@@ -8,3 +8,6 @@ to start this Grails application with _grails run-app_
 
 ## Background
 This example originated from my talk at Gr8Conf 2017 in Copenhagen
+
+## NOTE: 
+This may be outdated with newer version of Grails
